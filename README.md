@@ -1,4 +1,4 @@
-![_284b637f-2a2c-44b1-b9e3-034212dd8f18-removebg-preview](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/3db37566-ed8a-4127-b4ad-464eb7c8c7c5)
+<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/3db37566-ed8a-4127-b4ad-464eb7c8c7c5" width="200" height="200">
 
 
 <img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/239ec863-aa9c-49c1-b68f-c6f794463356" alt="AppReact" width="200" height="200">
