@@ -1,7 +1,8 @@
-<!--img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/3db37566-ed8a-4127-b4ad-464eb7c8c7c5" width="200" height="200"-->
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/3db37566-ed8a-4127-b4ad-464eb7c8c7c5" alt="Imagem1" width="200" height="200">
+    <img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/239ec863-aa9c-49c1-b68f-c6f794463356" alt="Imagem2" width="200" height="200">
+</div>
 
-
-<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/239ec863-aa9c-49c1-b68f-c6f794463356" alt="AppReact" width="200" height="200">
 
 
 - 👀 I’m interested in learn about Python 
