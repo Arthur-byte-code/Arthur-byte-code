@@ -1,5 +1,6 @@
-🇧🇷 🇺🇲
-- 👋 Hi, I’m @Arthur-byte-code
+
+
+![hello](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/922ab2ec-6275-4e81-bf8f-a7f4599b9ded)
 - 👀 I’m interested in learn a little bit about every programing language
 - 🌱 I’m currently learning React Native(JavaScript)
 - 💞️ I’m looking to collaborate on curiosities and research
