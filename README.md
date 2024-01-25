@@ -2,7 +2,7 @@
 <img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/9a47f347-3f65-4b6c-b9f3-831072278292" alt="AppReact" width="200" height="200">
 
 
-- 👀 I’m interested in learn a little bit about every programing language
+- 👀 I’m interested in learn about Python 
 
   
 - 🌱 I’m currently learning React Native(JavaScript)
