@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React Native(JavaScript)
 
   
-- 💞️ I’m looking to collaborate on curiosities and research
+- 💞️ I’m looking for a job and to collaborate with the community
 
 
   
