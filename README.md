@@ -1,3 +1,4 @@
+🇧🇷 🇺🇲
 - 👋 Hi, I’m @Arthur-byte-code
 - 👀 I’m interested in learn a little bit about every programing language
 - 🌱 I’m currently learning React Native(JavaScript)
