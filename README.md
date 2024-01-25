@@ -1,4 +1,4 @@
-<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/4c392c3a-e25c-44f4-96dc-204b35ae8de6" alt="AppReact" width="200" height="200">
+
 
 <img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/239ec863-aa9c-49c1-b68f-c6f794463356" alt="AppReact" width="200" height="200">
 
