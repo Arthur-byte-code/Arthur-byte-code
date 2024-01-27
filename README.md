@@ -1,4 +1,5 @@
-<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b206e5f7-ad01-4599-a032-41cb74139722" style="border-radius: 100px;">
+![Polish_20240127_135050763](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/485c546c-85f8-4ab3-86d9-1ac00a69d742)
+
 
 
 
