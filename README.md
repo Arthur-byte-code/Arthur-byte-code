@@ -1,5 +1,4 @@
-<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/cb1b1097-5078-4dbf-9aa9-ef08ddc8eb69" alt="Profile Image" style="border-radius: 10px">
-
+<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/blob/main/assets/152222113/cb1b1097-5078-4dbf-9aa9-ef08ddc8eb69"  style="border-radius: 10px;">
 
 
 
