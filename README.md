@@ -1,5 +1,4 @@
-![inbound4177081603664761000](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/cb1b1097-5078-4dbf-9aa9-ef08ddc8eb69)
-
+<img src="https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/cb1b1097-5078-4dbf-9aa9-ef08ddc8eb69" alt="Profile Image" style="border-radius: 10px;">
 
 
 
