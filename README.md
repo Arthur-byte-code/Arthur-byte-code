@@ -7,7 +7,7 @@
 
 **Skills:**
 - 🛠️ FrontEnd: Html, Css, React Native (mobile);
-- 🛠️ BackEnd: C#, Python, SQL
+- 🛠️ BackEnd: C#, Python (RPA and Analysis), SQL
 
   
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
