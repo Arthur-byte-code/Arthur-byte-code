@@ -10,7 +10,7 @@
 - 🛠️ BackEnd: C#, Python (RPA and Analysis), SQL
 
   
-++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++
 
 **About me:**
 - 👀 I’m interested in learn about Python 
