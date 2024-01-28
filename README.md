@@ -1,4 +1,5 @@
-![Polish_20240128_081146061](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/66d8f3c5-befe-4ee3-b11e-e5f87a27e576)
+![Polish_20240128_084650089](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/42af4e39-2e89-4298-9f29-b1c3f32f2353)
+
 
 
 
