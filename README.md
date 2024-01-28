@@ -6,8 +6,8 @@
 
 
 **Skills:**
--🛠️ FrontEnd: Html, Css, React Native (mobile);
--🛠️ BackEnd: C#, Python, SQL
+- 🛠️ FrontEnd: Html, Css, React Native (mobile);
+- 🛠️ BackEnd: C#, Python, SQL
 
 
 - 👀 I’m interested in learn about Python 
