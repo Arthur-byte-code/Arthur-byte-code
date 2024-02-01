@@ -5,8 +5,8 @@
 
 
 **Skills:**
-- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="20px" height="20px"> FrontEnd: Html, Css, React Native (mobile);
-- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="20px" height="20px"> BackEnd: C#, Python (RPA and Analysis), SQL
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> FrontEnd: Html, Css, React Native (mobile);
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> BackEnd: C#, Python (RPA and Analysis), SQL
 
   
 +++++++++++++++++++++++++++++++
