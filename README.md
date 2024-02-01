@@ -5,7 +5,7 @@
 
 
 **Skills:**
-- 🛠️ FrontEnd: Html, Css, React Native (mobile);
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="10px" height="10px"> FrontEnd: Html, Css, React Native (mobile);
 - 🛠️ BackEnd: C#, Python (RPA and Analysis), SQL
 
   
