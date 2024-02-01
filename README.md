@@ -1,8 +1,7 @@
 ![Polish_20240128_090916622](https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/a08180db-5b55-4390-9e3d-604230eb5be0)
 
 
-
-
+<img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="10px" height="10px">
 
 
 **Skills:**
