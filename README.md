@@ -20,6 +20,9 @@
   
 - 💞️ I’m looking for a job and to collaborate with the community
 
+- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=Arthur-byte-code.Arthur-byte-code)](https://github.com/Arthur-byte-code)
+
+
 
   
 - 📫 How to reach me arthurbytecode@gmail.com
