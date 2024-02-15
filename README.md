@@ -20,10 +20,6 @@
   
 - 💞️ I’m looking for a job and to collaborate with the community
 
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=Arthur-byte-code.Arthur-byte-code)
-
-
-
   
 - 📫 How to reach me arthurbytecode@gmail.com
 
