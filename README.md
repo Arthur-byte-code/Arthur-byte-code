@@ -24,6 +24,7 @@
 
   
 - 📫 How to reach me arthurbytecode@gmail.com
+- https://br.linkedin.com/in/arthur-henrique-65a0b8252
 
 
 
