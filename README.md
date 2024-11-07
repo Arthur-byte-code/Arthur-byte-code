@@ -14,7 +14,6 @@ WELCOME!!! here you'll find a variety of projects.
 
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/arthur-henrique-65a0b8252/)
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
 
 <!---
 Arthur-byte-code/Arthur-byte-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
