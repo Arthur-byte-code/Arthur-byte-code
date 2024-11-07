@@ -8,7 +8,10 @@
 
 **Skills:**
 - <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> FrontEnd: HTML5, CSS3, React Native (mobile);
-- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> BackEnd: C#, Python (RPA), SQL
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> Python: RPA and Tkinter;
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> Javascript: Electron.js, React.js and React Native;
+- <img src= "https://github.com/Arthur-byte-code/Arthur-byte-code/assets/152222113/b6e23001-b000-41ca-82b2-768beb151f70" width="13px" height="13px"> C#: ASP.Net, .NET Maui and Windows Forms;
+
 
 WELCOME!!! here you'll find a variety of projects.
 
