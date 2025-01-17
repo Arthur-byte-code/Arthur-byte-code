@@ -18,6 +18,8 @@ WELCOME!!! here you'll find a variety of projects.
 
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/arthur-henrique-65a0b8252/)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ARTHUR-BYTE-CODE/videos)
+
 <!---
 Arthur-byte-code/Arthur-byte-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
